@@ -36,5 +36,5 @@ jobs:
         run: pip install -r requirements.txt
       - name: Deploy bot
         run: |
-          python run,py
+          python run.py
           sleep 21600 # Giữ bot hoạt động trong 3600 giây (1 giờ)
