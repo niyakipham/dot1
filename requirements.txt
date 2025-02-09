@@ -1,0 +1,6 @@
+discord 
+asyncio
+beautifulsoup4
+requests
+aiohttp
+discord_webhook
